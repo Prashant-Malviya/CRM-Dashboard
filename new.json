@@ -1,0 +1,106 @@
+{
+  "1day": {
+    "timeRange": "1 day",
+    "leads": {
+      "total": 15,
+      "converted": 5,
+      "lost": 2
+    },
+    "revenue": 1200,
+    "expenses": 300,
+    "users": {
+      "active": 50,
+      "inactive": 10,
+      "new": 3
+    },
+    "departmentDistribution": {
+      "marketing": 40,
+      "sales": 30,
+      "support": 20
+    },
+    "openTickets": {
+      "total": 10,
+      "open": 5
+    },
+    "pieData": [30, 50, 20],
+    "lineData": [100, 200, 300, 400, 500]
+  },
+  "1week": {
+    "timeRange": "1 week",
+    "leads": {
+      "total": 100,
+      "converted": 25,
+      "lost": 10
+    },
+    "revenue": 7500,
+    "expenses": 1500,
+    "users": {
+      "active": 300,
+      "inactive": 50,
+      "new": 25
+    },
+    "departmentDistribution": {
+      "marketing": 35,
+      "sales": 45,
+      "support": 20
+    },
+    "openTickets": {
+      "total": 50,
+      "open": 20
+    },
+    "pieData": [50, 20, 30],
+    "lineData": [200, 100, 300, 500, 400]
+  },
+  "1month": {
+    "timeRange": "1 month",
+    "leads": {
+      "total": 450,
+      "converted": 120,
+      "lost": 30
+    },
+    "revenue": 30000,
+    "expenses": 9000,
+    "users": {
+      "active": 1000,
+      "inactive": 200,
+      "new": 100
+    },
+    "departmentDistribution": {
+      "marketing": 50,
+      "sales": 30,
+      "support": 20
+    },
+    "openTickets": {
+      "total": 100,
+      "open": 60
+    },
+    "pieData": [10, 30, 10],
+    "lineData": [200, 100, 400, 300, 500]
+  },
+  "1year": {
+    "timeRange": "1 year",
+    "leads": {
+      "total": 6000,
+      "converted": 1800,
+      "lost": 400
+    },
+    "revenue": 400000,
+    "expenses": 120000,
+    "users": {
+      "active": 10000,
+      "inactive": 2500,
+      "new": 500
+    },
+    "departmentDistribution": {
+      "marketing": 40,
+      "sales": 40,
+      "support": 20
+    },
+    "openTickets": {
+      "total": 1000,
+      "open": 150
+    },
+    "pieData": [10, 20, 30],
+    "lineData": [400, 500, 300, 100, 200]
+  }
+}
